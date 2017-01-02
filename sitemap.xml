@@ -47,13 +47,13 @@
   </url>
   
   <url>
-    <loc>https://elicema.github.io/faq/</loc>
-  </url>
-  
-  <url>
     <loc>https://elicema.github.io/</loc>
     <lastmod>2016-02-19T15:20:22-06:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://elicema.github.io/faq/</loc>
   </url>
   
 </urlset>
