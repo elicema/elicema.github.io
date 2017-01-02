@@ -2,33 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://elicema.github.io/blog/2015/10/10/migrate-from-jekyll/</loc>
+    <loc>https://elicema.github.io/2016/02/19/autoestima-y-expresion-emocional-del-nino/</loc>
+    <lastmod>2016-02-19T15:20:22-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elicema.github.io/2016/02/05/el-dia-que-comence-a-amarme/</loc>
+    <lastmod>2016-02-05T15:16:05-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elicema.github.io/2016/02/03/neurodesarrollo-padres-eficaces-ninos-felices/</loc>
+    <lastmod>2016-02-03T15:09:37-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elicema.github.io/2016/01/28/ni-princesa-ni-esclava-simplemente-mama/</loc>
+    <lastmod>2016-01-28T14:05:01-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elicema.github.io/2016/01/20/un-hijo-especial-para-una-madre-especial/</loc>
+    <lastmod>2016-01-20T14:57:06-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elicema.github.io/2016/01/15/autoagresiones-heridas-emocionales-que-necesitan-ser-sanadas/</loc>
+    <lastmod>2016-01-15T14:49:04-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elicema.github.io/2016/01/10/5-razones-para-vivir-una-maternidad-sin-miedo/</loc>
+    <lastmod>2016-01-10T14:19:29-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elicema.github.io/2015/10/10/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://elicema.github.io/blog/2015/10/02/linked-post/</loc>
+    <loc>https://elicema.github.io/2015/10/02/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://elicema.github.io/blog/2015/09/17/go-is-for-lovers/</loc>
+    <loc>https://elicema.github.io/2015/09/17/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://elicema.github.io/blog/2015/08/03/hugo-is-for-lovers/</loc>
+    <loc>https://elicema.github.io/2015/08/03/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://elicema.github.io/blog/2015/06/24/creating-a-new-theme/</loc>
+    <loc>https://elicema.github.io/2015/06/24/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://elicema.github.io/blog/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2016-02-19T15:20:22-06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -77,18 +112,18 @@
   
   <url>
     <loc>https://elicema.github.io/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://elicema.github.io/tags/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <lastmod>2016-02-19T15:20:22-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://elicema.github.io/categories/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://elicema.github.io/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
